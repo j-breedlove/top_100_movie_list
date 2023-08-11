@@ -1,4 +1,13 @@
 ## 100 Movies that You Must Watch
+![top_100_movies.png](top_100_movies.png)
+1. Clone the repository:
+```bash
+git clone https://github.com/j-breedlove/top_100_movie_list.git
+```
+2. Change directory:
+```bash
+cd top_100_movie_list
+```
 
 # Objective
 
